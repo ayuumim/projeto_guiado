@@ -25,6 +25,7 @@
 }
 
 @media screen and (max-width:419px) {
+    
     .formulario input[type="text"] {
         width: 100%;  
     }
